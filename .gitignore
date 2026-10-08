@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+*.pdf
+*.xlsx
+.mypy_cache/
